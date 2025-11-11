@@ -7,12 +7,6 @@ int main()
 {
     std::cout << "Hello Change #1! Changes on online github\n";
     std::cout << "Hello Change #1! Changes on online github\n";
-    std::cout << "Hello Change #1! Changes on online github\n";
-    std::cout << "Hello Change #1! Changes on online github\n";
-    std::cout << "Hello Change #1! Changes on online github\n";
-    std::cout << "Hello Change #1! Changes on online github\n";
-    std::cout << "Hello Change #1! Changes on online github\n";
-    std::cout << "Hello Change #1! Changes on online github\n";
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
